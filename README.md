@@ -1,4 +1,6 @@
 
+<img width="490" height="495" alt="Снимок экрана 2025-11-23 113725" src="https://github.com/user-attachments/assets/a7a1c089-a39c-4810-8786-a3bbbe57b294" />
+<img width="465" height="729" alt="Снимок экрана 2025-11-23 113546" src="https://github.com/user-attachments/assets/f899b76f-b6d2-43b3-a76a-5e8b1edf5397" />
 
 Системный промпт:
 
